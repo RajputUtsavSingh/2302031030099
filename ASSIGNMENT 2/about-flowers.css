@@ -1,0 +1,1497 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-child12 {
+=======
+.frame-child28 {
+
+>>>>>>> Incoming
+=======
+.frame-child45 {
+
+>>>>>>> Incoming
+  height: 184px;
+  width: 1440px;
+  position: relative;
+  background: linear-gradient(
+    90deg,
+    #5cff4e,
+    #00da30 30.5%,
+    #83ee69 58%,
+    #46c227 82.6%
+  );
+  display: none;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-child13 {
+=======
+.frame-child29 {
+
+>>>>>>> Incoming
+=======
+.frame-child46 {
+
+>>>>>>> Incoming
+  height: 128px;
+  width: 138px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-child14 {
+=======
+.frame-child30 {
+
+>>>>>>> Incoming
+=======
+.frame-child47 {
+
+>>>>>>> Incoming
+  height: 44px;
+  width: 99px;
+  position: relative;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: none;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.home1 {
+=======
+.home2 {
+
+>>>>>>> Incoming
+=======
+.home3 {
+
+>>>>>>> Incoming
+  height: 29px;
+  width: 63px;
+  position: relative;
+  display: inline-block;
+  min-width: 63px;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent8 {
+=======
+.rectangle-parent20 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent30 {
+
+>>>>>>> Incoming
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-lg) var(--padding-7xs);
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper10 {
+=======
+.frame-wrapper20 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper30 {
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-4xs) 0px 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-child15 {
+=======
+.frame-child31 {
+
+>>>>>>> Incoming
+=======
+.frame-child48 {
+
+>>>>>>> Incoming
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  width: 99px;
+  height: 44px;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.about1 {
+=======
+.about2 {
+
+>>>>>>> Incoming
+=======
+.about3 {
+
+>>>>>>> Incoming
+  position: absolute;
+  top: 8px;
+  left: 18px;
+  display: inline-block;
+  width: 88px;
+  height: 29px;
+  z-index: 2;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent9 {
+=======
+.rectangle-parent21 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent31 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  height: 44px;
+  position: relative;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper11 {
+=======
+.frame-wrapper21 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper31 {
+
+>>>>>>> Incoming
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0px 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.tips3 {
+=======
+.tips5 {
+
+>>>>>>> Incoming
+=======
+.tips7 {
+
+>>>>>>> Incoming
+  margin: 0;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.tips2 {
+=======
+.tips4 {
+
+>>>>>>> Incoming
+=======
+.tips6 {
+
+>>>>>>> Incoming
+  height: 33px;
+  width: 81px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent10 {
+=======
+.rectangle-parent22 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent32 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0px 0px var(--padding-11xl);
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper12 {
+=======
+.frame-wrapper22 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper32 {
+
+>>>>>>> Incoming
+  flex: 0.9167;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-4xs) 0px 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.information3 {
+=======
+.information5 {
+
+>>>>>>> Incoming
+=======
+.information7 {
+
+>>>>>>> Incoming
+  font-size: var(--font-size-sm);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.span1 {
+=======
+.span2 {
+
+>>>>>>> Incoming
+=======
+.span3 {
+
+>>>>>>> Incoming
+  font-size: var(--font-size-base);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.information2 {
+=======
+.information4 {
+
+>>>>>>> Incoming
+=======
+.information6 {
+
+>>>>>>> Incoming
+  height: 35px;
+  width: 80px;
+  position: relative;
+  display: inline-block;
+  min-width: 80px;
+  z-index: 4;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent11 {
+=======
+.rectangle-parent23 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent33 {
+
+>>>>>>> Incoming
+  height: 44px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi) var(--padding-4xs) 0px var(--padding-3xs);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper13 {
+=======
+.frame-wrapper23 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper33 {
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-sm) 0px 0px;
+  font-size: var(--font-size-xs);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.about-flowers2 {
+=======
+.about-flowers3 {
+
+>>>>>>> Incoming
+=======
+.about-flowers4 {
+
+>>>>>>> Incoming
+  height: 43px;
+  width: 88px;
+  position: relative;
+  display: inline-block;
+  min-width: 88px;
+  z-index: 2;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent12 {
+=======
+.rectangle-parent24 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent34 {
+
+>>>>>>> Incoming
+  height: 44px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0px 0px var(--padding-2xs);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper14 {
+=======
+.frame-wrapper24 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper34 {
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) var(--padding-sm) 0px 0px;
+  font-size: var(--font-size-xs);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.sign-up3 {
+=======
+.sign-up4 {
+
+>>>>>>> Incoming
+=======
+.sign-up5 {
+
+>>>>>>> Incoming
+  height: 44px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent13 {
+=======
+.rectangle-parent25 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent35 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  height: 44px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0px 0px var(--padding-xs);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper15 {
+=======
+.frame-wrapper25 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper35 {
+
+>>>>>>> Incoming
+  flex: 0.9083;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) var(--padding-3xs) 0px 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent14 {
+=======
+.rectangle-parent26 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent36 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  height: 44px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0px 0px var(--padding-base);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.dahlia-marigold-clust {
+  flex: 0.8839;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) var(--padding-smi) 0px 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.contact1 {
+=======
+.contact2 {
+
+>>>>>>> Incoming
+=======
+.contact4 {
+
+>>>>>>> Incoming
+  height: 31px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent15 {
+=======
+.rectangle-parent27 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent37 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0px var(--padding-7xs) var(--padding-3xs);
+  white-space: nowrap;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper16 {
+=======
+.frame-wrapper26 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper36 {
+
+>>>>>>> Incoming
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0px 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-parent3 {
+=======
+.frame-parent4 {
+
+>>>>>>> Incoming
+=======
+.frame-parent6 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper9 {
+=======
+.frame-wrapper19 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper29 {
+
+>>>>>>> Incoming
+  width: 889px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-14xl) 0px 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.group-header {
+=======
+.rectangle-parent19 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent29 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  height: 184px;
+  background: linear-gradient(
+    90deg,
+    #5cff4e,
+    #00da30 30.5%,
+    #83ee69 58%,
+    #46c227 82.6%
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-6xl) var(--padding-xl) var(--padding-12xl)
+    var(--padding-26xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.base-shape-icon {
+  align-self: stretch;
+  height: 158px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.rose {
+  margin: 0;
+  height: 40px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent16 {
+=======
+.rectangle-parent28 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent38 {
+
+>>>>>>> Incoming
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-3xs) 0px var(--padding-12xl);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper17 {
+=======
+.frame-wrapper27 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper37 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 39px 0px 38px;
+}
+.base-shape-parent {
+  height: 218px;
+  width: 230px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-5xs) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.flower-cluster-child {
+  height: 40px;
+  width: 145px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.lotus {
+  margin: 0;
+  height: 43px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.flower-cluster {
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 0px 0px var(--padding-10xl);
+}
+.flower-cluster-wrapper {
+  width: 205px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-11xl);
+  box-sizing: border-box;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent17 {
+=======
+.rectangle-parent29 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent39 {
+
+>>>>>>> Incoming
+  height: 221px;
+  width: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-child24 {
+=======
+.frame-child40 {
+
+>>>>>>> Incoming
+=======
+.frame-child57 {
+
+>>>>>>> Incoming
+  height: 40px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-gainsboro);
+}
+.lily {
+  align-self: stretch;
+  height: 39px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.jasmine-tulips {
+  width: 113px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0px 0px;
+  box-sizing: border-box;
+  margin-left: -94px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent19 {
+=======
+.rectangle-parent31 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent41 {
+
+>>>>>>> Incoming
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper18 {
+=======
+.frame-wrapper28 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper38 {
+
+>>>>>>> Incoming
+  width: 184px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-3xs);
+  box-sizing: border-box;
+}
+.tulips {
+  margin: 0;
+  position: absolute;
+  top: 4px;
+  left: 31px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 134px;
+  height: 39px;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent21 {
+=======
+.rectangle-parent33 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent43 {
+
+>>>>>>> Incoming
+  height: 43px;
+  flex: 1;
+  position: relative;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper19 {
+=======
+.frame-wrapper29 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper39 {
+
+>>>>>>> Incoming
+  width: 205px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-xl);
+  box-sizing: border-box;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-parent5 {
+=======
+.frame-parent6 {
+
+>>>>>>> Incoming
+=======
+.frame-parent8 {
+
+>>>>>>> Incoming
+  width: 1304px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.daisy-dahlia-marigold {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-gainsboro);
+  width: 145px;
+  height: 40px;
+}
+.jasmine {
+  margin: 0;
+  position: absolute;
+  top: 3px;
+  left: 16px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 145px;
+  height: 38px;
+  z-index: 1;
+}
+.daisy-dahlia-marigold-parent {
+  height: 41px;
+  flex: 1;
+  position: relative;
+}
+.lotus-jasmine-and-tips-inner {
+  width: 183px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-2xs);
+  box-sizing: border-box;
+}
+.lotus-jasmine-and-tips {
+  height: 219px;
+  width: 242px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0px var(--padding-xl) 0px 0px;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.dahlia {
+  margin: 0;
+  height: 41px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent22 {
+=======
+.rectangle-parent34 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent44 {
+
+>>>>>>> Incoming
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 0px 0px var(--padding-13xl);
+}
+.lotus-jasmine-and-tips1 {
+  height: 219px;
+  width: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.daisy {
+  margin: 0;
+  height: 36px;
+  width: 128px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent23 {
+=======
+.rectangle-parent35 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent45 {
+
+>>>>>>> Incoming
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-7xs) 0px;
+  white-space: nowrap;
+}
+.lotus-jasmine-and-tips-inner2 {
+  width: 203px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px var(--padding-10xl);
+  box-sizing: border-box;
+}
+.lotus-jasmine-and-tips2 {
+  height: 218px;
+  width: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent24 {
+=======
+.rectangle-parent36 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent46 {
+
+>>>>>>> Incoming
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px var(--padding-7xs);
+}
+.lotus-jasmine-and-tips-inner3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-21xl) 0px 37px;
+}
+.lotus-jasmine-and-tips3 {
+  height: 218px;
+  width: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.lotus-jasmine-and-tips-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-parent4 {
+=======
+.frame-parent5 {
+
+>>>>>>> Incoming
+=======
+.frame-parent7 {
+
+>>>>>>> Incoming
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 78px;
+  max-width: 100%;
+}
+.about-flowers-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 64px 24px var(--padding-41xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-child31 {
+=======
+.frame-child47 {
+
+>>>>>>> Incoming
+=======
+.frame-child64 {
+
+>>>>>>> Incoming
+  height: 68px;
+  width: 70px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  min-height: 68px;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.ellipse-group {
+=======
+.ellipse-container {
+
+>>>>>>> Incoming
+=======
+.ellipse-parent2 {
+
+>>>>>>> Incoming
+  height: 68px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xl);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.xyzcompanygmailcom1 {
+=======
+.xyzcompanygmailcom2 {
+
+>>>>>>> Incoming
+=======
+.xyzcompanygmailcom4 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  height: 46px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.div1 {
+=======
+.div2 {
+
+>>>>>>> Incoming
+=======
+.div4 {
+
+>>>>>>> Incoming
+  height: 47px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.container {
+=======
+.frame {
+
+>>>>>>> Incoming
+=======
+.wrapper1 {
+
+>>>>>>> Incoming
+  width: 349px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-9xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.xyzcompanygmailcom-group {
+=======
+.xyzcompanygmailcom-container {
+
+>>>>>>> Incoming
+=======
+.xyzcompanygmailcom-parent1 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper20 {
+=======
+.frame-wrapper30 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper40 {
+
+>>>>>>> Incoming
+  width: 369px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0px 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent25 {
+=======
+.rectangle-parent37 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent47 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  background: linear-gradient(
+    90deg,
+    #5cff4e,
+    #00da30 30.5%,
+    #83ee69 58%,
+    #46c227 82.6%
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-21xl) 0px var(--padding-26xl) var(--padding-41xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.about-flowers1 {
+=======
+.about-flowers2 {
+
+>>>>>>> Incoming
+=======
+.about-flowers3 {
+
+>>>>>>> Incoming
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  gap: 57px;
+=======
+  gap: var(--gap-38xl);
+
+>>>>>>> Incoming
+  letter-spacing: normal;
+}
+
+@media screen and (max-width: 750px) {
+<<<<<<< HEAD
+  .rose {
+    font-size: var(--font-size-5xl);
+  }
+
+  .lotus {
+    font-size: var(--font-size-5xl);
+  }
+
+  .lily {
+    font-size: var(--font-size-5xl);
+  }
+
+  .tulips {
+    font-size: var(--font-size-5xl);
+  }
+
+  .jasmine {
+    font-size: var(--font-size-5xl);
+  }
+
+  .dahlia {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 675px) {
+<<<<<<< HEAD
+  .group-header {
+=======
+  .rectangle-parent19 {
+
+>>>>>>> Incoming
+=======
+  .rectangle-parent29 {
+
+>>>>>>> Incoming
+    padding-left: var(--padding-3xl);
+    box-sizing: border-box;
+  }
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+  .frame-parent4 {
+=======
+  .frame-parent5 {
+
+>>>>>>> Incoming
+=======
+  .frame-parent7 {
+
+>>>>>>> Incoming
+    gap: var(--gap-20xl);
+  }
+
+  .about-flowers-inner {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+  .rectangle-parent25 {
+=======
+  .rectangle-parent37 {
+
+>>>>>>> Incoming
+=======
+  .rectangle-parent47 {
+
+>>>>>>> Incoming
+    flex-wrap: wrap;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+  .about-flowers1 {
+=======
+  .about-flowers2 {
+
+>>>>>>> Incoming
+=======
+  .about-flowers3 {
+
+>>>>>>> Incoming
+    gap: var(--gap-9xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .rose {
+    font-size: var(--font-size-lg);
+  }
+
+  .lotus {
+    font-size: var(--font-size-lg);
+  }
+
+  .lily {
+    font-size: var(--font-size-lg);
+  }
+
+  .tulips {
+    font-size: var(--font-size-lg);
+  }
+
+  .jasmine {
+    font-size: var(--font-size-lg);
+  }
+
+  .dahlia {
+    font-size: var(--font-size-lg);
+  }
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+  .frame-parent4 {
+=======
+  .frame-parent5 {
+
+>>>>>>> Incoming
+=======
+  .frame-parent7 {
+
+>>>>>>> Incoming
+    gap: var(--gap-lgi);
+  }
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+  .xyzcompanygmailcom1 {
+=======
+  .xyzcompanygmailcom2 {
+
+>>>>>>> Incoming
+=======
+  .xyzcompanygmailcom4 {
+
+>>>>>>> Incoming
+    font-size: var(--font-size-base);
+  }
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+  .div1 {
+=======
+  .div2 {
+
+>>>>>>> Incoming
+=======
+  .div4 {
+
+>>>>>>> Incoming
+    font-size: var(--font-size-base);
+  }
+}

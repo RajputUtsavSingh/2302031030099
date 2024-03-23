@@ -1,0 +1,1132 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-child47 {
+=======
+.frame-child63 {
+
+>>>>>>> Incoming
+=======
+.frame-child80 {
+
+>>>>>>> Incoming
+  height: 184px;
+  width: 1440px;
+  position: relative;
+  background: linear-gradient(
+    90deg,
+    #5cff4e,
+    #00da30 30.5%,
+    #83ee69 58%,
+    #46c227 82.6%
+  );
+  display: none;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-child48 {
+=======
+.frame-child64 {
+
+>>>>>>> Incoming
+=======
+.frame-child81 {
+
+>>>>>>> Incoming
+  height: 128px;
+  width: 138px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-child49 {
+=======
+.frame-child65 {
+
+>>>>>>> Incoming
+=======
+.frame-child82 {
+
+>>>>>>> Incoming
+  height: 44px;
+  width: 99px;
+  position: relative;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: none;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.home3 {
+=======
+.home4 {
+
+>>>>>>> Incoming
+=======
+.home5 {
+
+>>>>>>> Incoming
+  height: 29px;
+  width: 63px;
+  position: relative;
+  display: inline-block;
+  min-width: 63px;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent39 {
+=======
+.rectangle-parent51 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent61 {
+
+>>>>>>> Incoming
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-4xs) var(--padding-lg) var(--padding-7xs);
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper31 {
+=======
+.frame-wrapper41 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper51 {
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-4xs) 0px 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-child50 {
+=======
+.frame-child66 {
+
+>>>>>>> Incoming
+=======
+.frame-child83 {
+
+>>>>>>> Incoming
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  width: 99px;
+  height: 44px;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.about4 {
+=======
+.about5 {
+
+>>>>>>> Incoming
+=======
+.about6 {
+
+>>>>>>> Incoming
+  position: absolute;
+  top: 8px;
+  left: 18px;
+  display: inline-block;
+  width: 88px;
+  height: 29px;
+  z-index: 2;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent40 {
+=======
+.rectangle-parent52 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent62 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  height: 44px;
+  position: relative;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper32 {
+=======
+.frame-wrapper42 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper52 {
+
+>>>>>>> Incoming
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0px 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.tips7 {
+=======
+.tips9 {
+
+>>>>>>> Incoming
+=======
+.tips11 {
+
+>>>>>>> Incoming
+  height: 33px;
+  width: 81px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent41 {
+=======
+.rectangle-parent53 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent63 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0px 0px var(--padding-11xl);
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper33 {
+=======
+.frame-wrapper43 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper53 {
+
+>>>>>>> Incoming
+  flex: 0.9167;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-4xs) 0px 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.information8 {
+=======
+.information10 {
+
+>>>>>>> Incoming
+=======
+.information12 {
+
+>>>>>>> Incoming
+  font-size: var(--font-size-sm);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.span3 {
+=======
+.span4 {
+
+>>>>>>> Incoming
+=======
+.span5 {
+
+>>>>>>> Incoming
+  font-size: var(--font-size-base);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.information7 {
+=======
+.information9 {
+
+>>>>>>> Incoming
+=======
+.information11 {
+
+>>>>>>> Incoming
+  height: 35px;
+  width: 80px;
+  position: relative;
+  display: inline-block;
+  min-width: 80px;
+  z-index: 4;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent42 {
+=======
+.rectangle-parent54 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent64 {
+
+>>>>>>> Incoming
+  height: 44px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi) var(--padding-4xs) 0px var(--padding-3xs);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 3;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper34 {
+=======
+.frame-wrapper44 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper54 {
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-sm) 0px 0px;
+  font-size: var(--font-size-xs);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.about-flowers4 {
+=======
+.about-flowers5 {
+
+>>>>>>> Incoming
+=======
+.about-flowers6 {
+
+>>>>>>> Incoming
+  height: 43px;
+  width: 88px;
+  position: relative;
+  display: inline-block;
+  min-width: 88px;
+  z-index: 2;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent43 {
+=======
+.rectangle-parent55 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent65 {
+
+>>>>>>> Incoming
+  height: 44px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0px 0px var(--padding-2xs);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper35 {
+=======
+.frame-wrapper45 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper55 {
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) var(--padding-sm) 0px 0px;
+  font-size: var(--font-size-xs);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.sign-up5 {
+=======
+.sign-up6 {
+
+>>>>>>> Incoming
+=======
+.sign-up7 {
+
+>>>>>>> Incoming
+  height: 44px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent44 {
+=======
+.rectangle-parent56 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent66 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  height: 44px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0px 0px var(--padding-xs);
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper36 {
+=======
+.frame-wrapper46 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper56 {
+
+>>>>>>> Incoming
+  flex: 0.9083;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) var(--padding-3xs) 0px 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent45 {
+=======
+.rectangle-parent57 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent67 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  height: 44px;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) 0px 0px var(--padding-base);
+  box-sizing: border-box;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper37 {
+=======
+.frame-wrapper47 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper57 {
+
+>>>>>>> Incoming
+  flex: 0.8839;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) var(--padding-smi) 0px 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.contact3 {
+=======
+.contact4 {
+
+>>>>>>> Incoming
+=======
+.contact6 {
+
+>>>>>>> Incoming
+  height: 31px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent46 {
+=======
+.rectangle-parent58 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent68 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  border-radius: var(--br-mini);
+  background: linear-gradient(
+    199.12deg,
+    #041397 7.74%,
+    #0b1679 74%,
+    #020842 81.5%,
+    #020631
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0px var(--padding-7xs) var(--padding-3xs);
+  white-space: nowrap;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper38 {
+=======
+.frame-wrapper48 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper58 {
+
+>>>>>>> Incoming
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0px 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-parent9 {
+=======
+.frame-parent10 {
+
+>>>>>>> Incoming
+=======
+.frame-parent12 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper30 {
+=======
+.frame-wrapper40 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper50 {
+
+>>>>>>> Incoming
+  width: 889px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-14xl) 0px 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent38 {
+=======
+.rectangle-parent50 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent60 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  flex: 1;
+  background: linear-gradient(
+    90deg,
+    #5cff4e,
+    #00da30 30.5%,
+    #83ee69 58%,
+    #46c227 82.6%
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-6xl) var(--padding-xl) var(--padding-12xl)
+    var(--padding-26xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.tips-inner {
+  align-self: stretch;
+  height: 217px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px var(--padding-14xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-child57 {
+=======
+.frame-child73 {
+
+>>>>>>> Incoming
+=======
+.frame-child90 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 2554057;
+}
+.rectangle-wrapper {
+  height: 309px;
+  width: 411px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 0px var(--padding-xs);
+  box-sizing: border-box;
+  min-width: 411px;
+  max-width: 100%;
+}
+.nutrient-rich-gardening-soil1 {
+  text-decoration: underline;
+}
+.nutrient-rich-gardening-soil {
+  color: inherit;
+}
+.plants-always-benefit-from-the {
+  margin: 0;
+}
+.plants-always-benefit-container {
+  align-self: stretch;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: var(--padding-11xl);
+}
+.improving-the-quality-container {
+  align-self: stretch;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: var(--padding-10xl);
+}
+.ensure-that-the-container {
+  height: 87px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.choose-space-tip {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px var(--padding-10xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.plants-always-benefit-from-the-parent {
+  width: 978px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+  min-width: 978px;
+  flex-shrink: 0;
+  debug_commit: 2554057;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-parent10 {
+=======
+.frame-parent11 {
+
+>>>>>>> Incoming
+=======
+.frame-parent13 {
+
+>>>>>>> Incoming
+  width: 1395px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper39 {
+=======
+.frame-wrapper49 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper59 {
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.the-must-haves-one-container {
+  height: 58px;
+  width: 1385px;
+  position: relative;
+  display: inline-block;
+}
+.the-must-haves-one-tool-that-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-11xs) var(--padding-9xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.tools-for-digging-container {
+  width: 1397px;
+  height: 87px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.these-methods-will-container {
+  height: 58px;
+  width: 987px;
+  position: relative;
+  display: inline-block;
+}
+.these-methods-will-give-you-a-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-smi);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px var(--padding-6xl);
+  box-sizing: border-box;
+  gap: var(--gap-mid);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-child59 {
+=======
+.frame-child75 {
+
+>>>>>>> Incoming
+=======
+.frame-child92 {
+
+>>>>>>> Incoming
+  height: 68px;
+  width: 70px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  min-height: 68px;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.ellipse-container {
+=======
+.ellipse-parent1 {
+
+>>>>>>> Incoming
+=======
+.ellipse-parent3 {
+
+>>>>>>> Incoming
+  height: 68px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xl);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.xyzcompanygmailcom3 {
+=======
+.xyzcompanygmailcom4 {
+
+>>>>>>> Incoming
+=======
+.xyzcompanygmailcom6 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  height: 46px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.div2 {
+=======
+.div3 {
+
+>>>>>>> Incoming
+=======
+.div5 {
+
+>>>>>>> Incoming
+  height: 47px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+  max-width: 100%;
+  z-index: 1;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame {
+=======
+.wrapper1 {
+
+>>>>>>> Incoming
+=======
+.wrapper2 {
+
+>>>>>>> Incoming
+  width: 349px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-9xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.xyzcompanygmailcom-parent1 {
+=======
+.xyzcompanygmailcom-parent2 {
+
+>>>>>>> Incoming
+=======
+.xyzcompanygmailcom-parent3 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.frame-wrapper40 {
+=======
+.frame-wrapper50 {
+
+>>>>>>> Incoming
+=======
+.frame-wrapper60 {
+
+>>>>>>> Incoming
+  width: 369px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0px 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.rectangle-parent47 {
+=======
+.rectangle-parent59 {
+
+>>>>>>> Incoming
+=======
+.rectangle-parent69 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  background: linear-gradient(
+    90deg,
+    #5cff4e,
+    #00da30 30.5%,
+    #83ee69 58%,
+    #46c227 82.6%
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-21xl) 0px var(--padding-26xl) var(--padding-41xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.tips6 {
+=======
+.tips8 {
+
+>>>>>>> Incoming
+=======
+.tips10 {
+
+>>>>>>> Incoming
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-9xl);
+  letter-spacing: normal;
+}
+
+@media screen and (max-width: 750px) {
+  .plants-always-benefit-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .improving-the-quality-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .ensure-that-the-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .the-must-haves-one-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .tools-for-digging-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .these-methods-will-container {
+    font-size: var(--font-size-lgi);
+  }
+
+<<<<<<< HEAD
+  .xyzcompanygmailcom3 {
+=======
+  .xyzcompanygmailcom4 {
+
+>>>>>>> Incoming
+    font-size: var(--font-size-base);
+  }
+
+<<<<<<< HEAD
+  .div2 {
+=======
+  .div3 {
+
+>>>>>>> Incoming
+    font-size: var(--font-size-base);
+  }
+}
+@media screen and (max-width: 675px) {
+  .plants-always-benefit-from-the-parent {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+<<<<<<< HEAD
+<<<<<<< HEAD
+  .rectangle-parent38 {
+=======
+  .rectangle-parent50 {
+
+>>>>>>> Incoming
+=======
+  .rectangle-parent60 {
+
+>>>>>>> Incoming
+    padding-left: var(--padding-3xl);
+    box-sizing: border-box;
+  }
+
+  .rectangle-wrapper {
+    min-width: 100%;
+  }
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+  .rectangle-parent47 {
+=======
+  .rectangle-parent59 {
+
+>>>>>>> Incoming
+=======
+  .rectangle-parent69 {
+
+>>>>>>> Incoming
+    flex-wrap: wrap;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
